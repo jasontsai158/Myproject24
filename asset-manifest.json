@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/Myproject24/static/css/main.fd2fc8e7.css",
+    "main.js": "/Myproject24/static/js/main.7633fbeb.js",
+    "static/media/pexels-alexander-dummer-2.jpg": "/Myproject24/static/media/pexels-alexander-dummer-2.aecd42b4c1d197657b25.jpg",
+    "static/media/pexels-pixabay-5.jpg": "/Myproject24/static/media/pexels-pixabay-5.9c6fff5802f34f371d74.jpg",
+    "static/media/bird.jpg": "/Myproject24/static/media/bird.705193e69e259d5c6ab2.jpg",
+    "static/media/picture.jpg": "/Myproject24/static/media/picture.fbb8aa37a5d454a7220f.jpg",
+    "index.html": "/Myproject24/index.html",
+    "main.fd2fc8e7.css.map": "/Myproject24/static/css/main.fd2fc8e7.css.map",
+    "main.7633fbeb.js.map": "/Myproject24/static/js/main.7633fbeb.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fd2fc8e7.css",
+    "static/js/main.7633fbeb.js"
+  ]
+}
