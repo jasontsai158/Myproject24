@@ -1,0 +1,35 @@
+.card-img-jason{
+  height: 500px;
+}
+.card-img-about-jason{
+  height: 480px;
+}
+/*
+.navbar-bg {
+  background-color: orange;
+}
+*/
+.navbar-space{
+  width: 300px;
+  font-weight: bold;
+}
+
+@media (max-width: 1500px) {
+  .navbar-space {
+   width: auto; /* 可以使用自动宽度，或根据您的需求调整宽度 */
+  }
+}
+
+.pic-set{
+  
+  height:40vh;
+  /*left:6vw;*/
+  width: 90vw;
+
+}
+
+/*@media screen and (min-width:768px){
+  .pic .col-12:last-child{
+    margin-top:-100px
+  }
+}*/
