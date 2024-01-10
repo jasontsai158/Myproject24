@@ -1,5 +1,5 @@
 import axios from "axios";
-const API_URL = "http://myprojectserver-bfya.onrender.com";
+const API_URL = "https://jasonweb24.onrender.com/api/user";
 
 class AuthService{
     login(email, password) {

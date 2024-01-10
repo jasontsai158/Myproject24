@@ -1,7 +1,5 @@
-/*
 import axios from "axios";
-//const API_URL = "http://localhost:8080/api/courses";
-const API_URL = "http://myprojectserver-bfya.onrender.com/api/courses";
+const API_URL = "https://jasonweb24.onrender.com/api/courses";
 
 class CourseService {
   post(title, description, price) {
@@ -89,7 +87,6 @@ class CourseService {
 
 export default new CourseService();
 
-*/
 
 /*/
 import axios from "axios";
